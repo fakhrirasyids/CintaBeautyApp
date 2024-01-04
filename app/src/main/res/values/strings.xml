@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CintaBeautyApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_event">Event</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_logout">Log Out</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="app_desc">Cinta Beauty App adalah sebuah aplikasi kecantikan yang dirancang untuk membantu pengguna dalam merawat kecantikan wajah dan tubuh secara efektif. Aplikasi ini menawarkan berbagai macam fitur dan informasi yang berguna untuk memenuhi kebutuhan perawatan kecantikan pengguna. Salah satu fitur unggulan dari Cinta Beauty App adalah fitur skin analysis yang dapat membantu pengguna mengetahui jenis kulit mereka dan memberikan rekomendasi produk perawatan kulit yang tepat sesuai dengan jenis kulit mereka.\n\nSelain itu, Cinta Beauty App juga menyediakan fitur makeup tutorial yang sangat berguna bagi pengguna yang ingin mempelajari berbagai teknik makeup dan gaya riasan terbaru. Dalam fitur ini, pengguna dapat menonton video tutorial dengan kualitas yang baik dan langkah-langkah yang mudah dipahami untuk menciptakan tampilan makeup yang diinginkan. Seluruh fitur yang disediakan dalam aplikasi Cinta Beauty App didesain dengan antarmuka yang ramah pengguna, sehingga pengguna dapat dengan mudah menavigasi dan memanfaatkan aplikasi untuk merawat kecantikan mereka dengan lebih efektif.</string>
+</resources>
